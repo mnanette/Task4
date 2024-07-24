@@ -1,0 +1,164 @@
+Courses
+Buttons:
+Filter byBeginner
+Filter byIntermediate
+Filter by<1 Hour
+Filter by3+ Hours
+
+
+for each course => Save
+
+
+
+Courses
+Level
+Time to Complete
+All filters
+
+Filter only
+Coursesby
+Level filterLevel
+
+Beginner
+Filter by Beginner
+
+Intermediate
+Filter by Intermediate
+
+Advanced
+Filter by Advanced
+Time to Complete filterTime to Complete
+
+< 10 mins
+Filter by < 10 mins
+
+10 - 30 mins
+Filter by 10 - 30 mins
+
+30 - 60 mins
+Filter by 30 - 60 mins
+
+1 - 2 hours
+Filter by 1 - 2 hours
+
+2 - 3 hours
+Filter by 2 - 3 hours
+
+
+
+Software
+
+Azure
+Filter by Azure
+
+Amazon Web Services (AWS)
+Filter by Amazon Web Services (AWS)
+
+Microsoft 365
+Filter by Microsoft 365
+
+Linux
+Filter by Linux
+
+vSphere
+Filter by vSphere
+
+GitHub
+Filter by GitHub
+
+SAP ERP
+Filter by SAP ERP
+
+Google Cloud Platform
+Filter by Google Cloud Platform
+
+Windows Server
+Filter by Windows Server
+
+Microsoft Excel
+Filter by Microsoft Excel
+
+Windows
+Filter by Windows
+
+Office 365
+Filter by Office 365
+
+Microsoft Project
+Filter by Microsoft Project
+
+Python
+Filter by Python
+
+AutoCAD
+Filter by AutoCAD
+
+Jira
+Filter by Jira
+
+Java
+Filter by Java
+
+Outlook
+Filter by Outlook
+
+SQL Server
+Filter by SQL Server
+
+SharePoint
+Filter by SharePoint
+Subjects and Topics filterSubjects and Topics
+
+Business
+Filter by Business
+
+Technology
+Filter by Technology
+
+Leadership and Management
+Filter by Leadership and Management
+
+Professional Development
+Filter by Professional Development
+
+Network and System Administration
+Filter by Network and System Administration
+
+Creative
+Filter by Creative
+
+Cloud Computing
+Filter by Cloud Computing
+
+Software Development
+Filter by Software Development
+
+Business Analysis and Strategy
+Filter by Business Analysis and Strategy
+
+Business Software and Tools
+Filter by Business Software and Tools
+Continuing Education Units filterContinuing Education Units
+
+PMI
+Filter by PMI
+
+CPE
+Filter by CPE
+
+HRCI
+Filter by HRCI
+
+SHRM
+Filter by SHRM
+
+IIBA
+Filter by IIBA
+
+CompTIA
+Filter by CompTIA
+
+Microsoft3+ hours
+Filter by 3+ hours
+
+Reset     Show results.
